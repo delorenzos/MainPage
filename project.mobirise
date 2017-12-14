@@ -1,0 +1,72 @@
+{
+  "settings": {
+    "name": "Site-12-14_2136",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#ea0909",
+        "#ff8600"
+      ]
+    },
+    "versionFirst": "4.5.2",
+    "uniqCompNum": 1,
+    "versionPublish": "4.5.2"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: normal;\">KHAIRUL AMRI BIN ZAINOL</span>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://delorenzos.github.io/delorenzos.github.io/\" data-toolbar=\"-mbrBtnMove\">Resume</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://delorenzos.github.io/PhoneRepairing/\" data-toolbar=\"-mbrBtnMove\">Phone Repairing</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://delorenzos.github.io/Keusahawanan/\" data-toolbar=\"-mbrBtnMove\">Keusahawanan</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://delorenzos.github.io/UIUX/\" data-toolbar=\"-mbrBtnMove\">Project UIUX</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-0",
+          "_styles": {
+            "SPAN": {
+              "color": "#f97352",
+              "font-family": "'Indie Flower', cursive",
+              "googleLink": "https://fonts.googleapis.com/css?family=Indie+Flower"
+            },
+            "H1": {
+              "text-align": "center"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
